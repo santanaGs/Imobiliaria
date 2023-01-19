@@ -1,0 +1,152 @@
+body{
+    margin: 0;
+    font-family: Tahoma;
+}
+
+div{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+p{
+    margin: 10px auto;
+    width: 980px;
+    text-align: justify;
+    font-size: 18px;
+    line-height: 28px;
+}
+
+span{
+    font-weight: bold;
+}
+
+h2, h3{
+    color: #1c81c0;
+    font-weight: bold;
+    margin-top: 0;
+}
+
+.secao1{
+    background-color: #afddfb;
+}
+
+.secao1 img{
+    width: 150px;
+}
+
+.secao1 p{
+    margin-top: 15px;
+    margin-bottom: 25px;
+    text-align: center;
+}
+
+.secao1 a{
+    font-size: 18px;
+    color: #1d1d1d;
+    border-bottom: 2px solid #1d1d1d;
+    text-decoration: none;
+    margin: 0 10px;
+        transition: all 0.8s;
+}
+
+.secao1 a:hover{
+    color: rgb(255, 255, 255);
+    border-bottom: 2px solid #fff;
+    margin: 0 20px;
+}
+
+.secao2{
+    margin-top: 50px;
+    padding-top: 0;
+}
+
+.secao3 h2{
+    color: #1c81c0;
+    font-weight: normal;
+    margin-top: 0;
+}
+
+.secao3 h1{
+    color: #1d1d1d;
+    margin-bottom: 5px;
+}
+
+.secao3 img, .secao5 img{
+    width: 450px;
+}
+
+.texto-azul{
+    color: #1d80c1;
+}
+
+.texto-amarelo{
+    color: #fff81b;
+}
+
+.secao4{
+    background-color: #1d80c1;
+}
+
+.secao4 h3, .secao6 h3{
+    color: #fff;
+    font-size: 28px;
+    line-height: 42px;
+    font-weight: bold;
+}
+
+.secao4 p{
+    color: #fff;
+    line-height: 42px;
+    font-size: 22px;
+    text-align: center;
+    width: 700px;
+}
+
+.secao4 ul{
+    margin: 40px auto;
+    width: 135px;
+
+    color: #fff;
+    line-height: 42px;
+    text-align: left;
+    font-size: 22px;
+}
+
+.secao6{
+    background-color: #1d80c1;
+}
+
+.secao6 p{
+    color: #fff;
+    background-color: #1d1d1d;
+    padding: 15px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    border-radius: 15px;
+}
+
+.secao6 span{
+    color: #fff81b;
+    font-weight: bold;
+}
+
+.secao6 ul{
+    margin: 40px auto;
+    width: 210px;
+    list-style: none;
+}
+
+.secao6 li{
+    margin-top: 15px;
+    text-align: center;
+    font-size: 18px;
+}
+
+.secao6 li a{
+    background-color: white;
+    color: #1d80c1;
+    padding: 2px 5px;
+    border-radius: 5px;
+}
